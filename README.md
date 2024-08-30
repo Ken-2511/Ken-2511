@@ -10,8 +10,13 @@ Currently, I know a little bit of Java and C. I'm learning C in this winter brea
 
 Keep going, Ken!
 
-If you want to reach me, my WeChat ID is IWMAIN, and my email is IWMAIN@outlook.com
+If you want to reach me, my WeChat ID is IWMAIN, and my email is iwmain@outlook.com
+(note that `IWMAIN` stands for `I Will Make an AI Nova`)
 
 ### Updated Jan 8, 2024
 
 Today is the first day of winter term! Through this winter break, I’ve updated several projects in my repositories. This term will be very busy because I want to apply for an internship for this summer vacation. I’m striving to be a full stack engineer, but I know it requires a lot of skills. While learning academic courses, I would like to develop some new projects using Javascript, C, Java, or some other languages to help me integrate all these skills together.
+
+### Updated Aug 31, 2024
+
+During the summer, I learned APS360 - Applied Fundamentals of Deep Learning, and made a fantastic project of Handwritten English Recognition with a group of 4. I also learned React Native and React JS. Never cease learning!
