@@ -2,7 +2,7 @@ Hi there. My name is <b>Ken Cheng</b> (Official name <b>Yongkang Cheng</b>)
 
 I'm currently an undergrad first-year student at University of Toronto who is enthused in practical-oriented electrical devices and computer programming. I started to learn Python when I was in grade 10. So far, I have made a few little projects and I'm looking forward to making further changes.
 
-To evaluate myself, I’m an idea generator, fast learner, very logical and objective, with a mild temper and a perfectionist streak. Here’s my [resume](https://docs.google.com/document/d/1JLkEsV-870l9Ov8YlNbPtf3-qjXwi8XxzYBxNVzgdH4).
+To evaluate myself, I’m an idea generator, fast learner, very logical and objective, with a mild temper and a perfectionist streak. Here’s my [resume](https:/chengyongkang.me/Yongkang_Cheng - Master Resume.pdf).
 
 ### Updated Dec 23, 2023
 
