@@ -24,3 +24,7 @@ During the summer, I learned APS360 - Applied Fundamentals of Deep Learning, and
 ### Updated Oct 23, 2024
 
 I think I'm ready to apply a job - although not fully prepared. Nothing's perfect, right?
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-2511&hide=jupyter%20notebook&layout=compact)
