@@ -28,3 +28,7 @@ I think I'm ready to apply a job - although not fully prepared. Nothing's perfec
 ### Updated Feb 9, 2026
 
 I got an offer from Altera, which is good.
+
+### Updated Apr 1, 2026
+
+I'm a Sponge Ken, swimming in the ocean of knowledge.
